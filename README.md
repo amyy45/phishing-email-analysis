@@ -1,4 +1,4 @@
-# Phishing Email Analysis Mini-Project
+# Phishing Email Analysis 
 
 ![Cybersecurity Banner](https://img.shields.io/badge/Category-Cybersecurity%20Threat%20Analysis-blue)
 ![Static Badge](https://img.shields.io/badge/Status-Completed-success)
