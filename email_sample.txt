@@ -1,0 +1,24 @@
+From: Airwallex (info.airwallex@securesupportcloud[.]com)
+To: john[.]doe@mybusiness[.]com
+
+Airwallex
+
+🔒
+
+We detected multiple failed MFA attempts on your account. Please verify immediately.
+
+Hi John,
+
+Due to multiple failed MFA attempts, your account has been disabled as a safety precaution. Please verify your account immediately.
+
+Click here
+ to verify and view failed attempts.
+
+Why am I receiving this email?
+
+We’re constantly monitoring failed login attempts to reduce the likelihood of malicious activity. If we detect unusual behavior, such as repeated failed MFA attempts or login requests from abnormal geographic locations, we temporarily suspend your account. This helps prevent unauthorised access until you can verify your identity
+.
+
+Airwallex.com | Help Centre | Terms
+
+[Facebook Icon] [Twitter Icon] [LinkedIn Icon]
