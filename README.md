@@ -51,7 +51,7 @@ The project followed a systematic approach to deconstruct the sample email:
 
 For this project, I analyzed a sample email impersonating the financial technology company **Airwallex**. The email attempts to panic the user by claiming their account has been disabled due to failed MFA attempts.
 
-![Airwallex Phishing Sample](image_04714d.png)
+![Airwallex Phishing Sample](phishing_sample.png)
 
 ### Phishing Indicators Found
 
